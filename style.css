@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(186, 218, 229);
+  }
+
+body{
+  color: rgb(40, 40, 86);
+  margin-left: 50px;
+}
+  h1 {
+    color: rgb(40, 40, 86);
+    margin-left: 10px;
+}
+p{
+    color: rgb(40, 40, 86);
+    margin-left: 10px; 
+}
+a{
+    color: rgb(205, 80, 186);
+}
